@@ -14,4 +14,12 @@
 - Python
 - Seaborn
 - Matplotlib
-### 分析結果：[這裡看]
+### 分析結果：[這裡看](Python-電商客戶行為.ipynb)
+## 專案三：餐廳、成員和訂單
+這份資料集中共有十張表格，內容包含成員的點餐紀錄及餐廳和訂單的詳細資料  
+目標是用SQL撈取資料後做join或聚合函數等，回答一些問題或進行探索性統計分析  
+資料來源：[https://www.kaggle.com/datasets/vainero/restaurants-customers-orders-dataset](https://www.kaggle.com/datasets/vainero/restaurants-customers-orders-dataset)
+### 使用工具：
+- Python
+- MySQL
+  ### 分析結果：[這裡看]
