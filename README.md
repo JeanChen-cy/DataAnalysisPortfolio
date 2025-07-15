@@ -21,5 +21,6 @@
 資料來源：[https://www.kaggle.com/datasets/vainero/restaurants-customers-orders-dataset](https://www.kaggle.com/datasets/vainero/restaurants-customers-orders-dataset)
 ### 使用工具：
 - Python
+- Pandas
 - MySQL
 ### ⭐分析結果：[這裡看](SQL-餐廳、成員和訂單.ipynb)
