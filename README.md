@@ -5,4 +5,4 @@
 ### 使用工具：
 - Python
 - Tableau
-### 商業簡報：[https://public.tableau.com/app/profile/yii.chen/viz/southasiatelecomchurn/1_1](https://public.tableau.com/app/profile/yii.chen/viz/southasiatelecomchurn/1_1)
+### 商業簡報：[Tableau](https://public.tableau.com/app/profile/yii.chen/viz/southasiatelecomchurn/1_1)
