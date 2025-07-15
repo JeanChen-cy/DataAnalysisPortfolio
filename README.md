@@ -6,4 +6,4 @@
 - Python
 - Tableau
 ### 商業簡報：[Tableau](https://public.tableau.com/app/profile/yii.chen/viz/southasiatelecomchurn/1_1)
-![plot](南亞電信客戶流失商業簡報/投影片1.png)
+![plot](南亞電信客戶流失商業簡報/投影片1.PNG)
