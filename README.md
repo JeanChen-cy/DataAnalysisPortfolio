@@ -14,7 +14,7 @@ Thera Bank的經理想將有債務的客戶轉換為貸款客戶，行銷部門�
 - Python  
 - Pandas  
 - Seaborn  
-### 分析結果：[這裡看](Python-貸款申請.ipynb)
+### ⭐分析結果：[這裡看](Python-貸款申請.ipynb)
 ## 專案三：電商平台用戶行為
 透過電商平台上的用戶行為找出和滿意度之間的關聯，提升客戶滿意度  
 資料來源：[https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset](https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset)
