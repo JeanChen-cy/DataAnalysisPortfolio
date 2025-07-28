@@ -37,5 +37,5 @@ Thera Bank的經理想將有債務的客戶轉換為貸款客戶，行銷部門�
 ### 使用工具：
 - Excel
 - Tableau  
-![plot](Tableau-intervention dashboard.png)
-[Tableau](https://public.tableau.com/app/profile/yii.chen/viz/interventions_17532390956700/2_2)
+![plot](Tableau-治療法儀表板.png)
+[在Tableau上看](https://public.tableau.com/app/profile/yii.chen/viz/interventions_17532390956700/2_2)
