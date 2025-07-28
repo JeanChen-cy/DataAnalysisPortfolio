@@ -36,5 +36,6 @@ Thera Bank的經理想將有債務的客戶轉換為貸款客戶，行銷部門�
 語言治療中使用到三種治療法，儀表板為每個治療法對個案治療效果的視覺化結果
 ### 使用工具：
 - Excel
-- Tableau
-![plot](Tableau-intervention dashboard.PNG)
+- Tableau  
+![plot](Tableau-intervention dashboard.png)
+[Tableau](https://public.tableau.com/app/profile/yii.chen/viz/interventions_17532390956700/2_2)
