@@ -32,3 +32,9 @@ Thera Bank的經理想將有債務的客戶轉換為貸款客戶，行銷部門�
 - MySQL
 ### ⭐分析結果：[這裡看](SQL-餐廳、成員和訂單.ipynb)  
 資料來源：[https://www.kaggle.com/datasets/vainero/restaurants-customers-orders-dataset](https://www.kaggle.com/datasets/vainero/restaurants-customers-orders-dataset)
+## 專案五：不同治療法的治療效果
+語言治療中使用到三種治療法，儀表板為每個治療法對個案治療效果的視覺化結果
+### 使用工具：
+- Excel
+- Tableau
+![plot](Tableau-intervention dashboard.PNG)
