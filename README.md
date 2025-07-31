@@ -15,6 +15,7 @@ Thera Bank的經理想將有債務的客戶轉換為貸款客戶，行銷部門�
 - Seaborn  
 ### ⭐分析結果：[這裡看](Python-貸款申請.ipynb)  
 ### 視覺化儀表板：[Tableau](https://public.tableau.com/app/profile/yii.chen/viz/_17539345831840/1)  
+![plot](dashboards/bank_loan_dashboard.png)
 資料來源：[https://www.kaggle.com/datasets/ahmadrafiee/bank-personal-loan](https://www.kaggle.com/datasets/ahmadrafiee/bank-personal-loan)  
 ## 專案三：電商平台用戶行為
 透過電商平台上的用戶行為找出和滿意度之間的關聯，提升客戶滿意度  
