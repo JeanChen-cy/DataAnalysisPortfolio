@@ -12,7 +12,8 @@ Thera Bank的經理想將有債務的客戶轉換為貸款客戶，行銷部門�
 ### 使用工具：
 - Python  
 - Pandas  
-- Seaborn  
+- Seaborn
+- Scikit-Learn
 ### ⭐分析結果：[這裡看](Python-貸款申請.ipynb)  
 ### 視覺化儀表板：[Tableau](https://public.tableau.com/app/profile/yii.chen/viz/_17539345831840/1)  
 ![plot](dashboards/bank_loan_dashboard.png)
