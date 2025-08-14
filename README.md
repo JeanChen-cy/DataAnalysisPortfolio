@@ -42,5 +42,10 @@ Thera Bank的經理想將有債務的客戶轉換為貸款客戶，行銷部門�
 - Tableau  
 ![plot](Tableau-治療法儀表板.png)
 ### 在網頁上看：[Tableau](https://public.tableau.com/app/profile/yii.chen/viz/interventions_17532390956700/2_2)  
-## Bonus: 
-### 機器學習：HR 預測離職
+## Bonus: 機器學習-HR 預測離職
+### 使用模型：
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- XGBoost
+### ⭐結果：[這裡看]
