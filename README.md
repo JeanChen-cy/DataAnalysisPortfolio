@@ -48,4 +48,4 @@ Thera Bank的經理想將有債務的客戶轉換為貸款客戶，行銷部門�
 - Decision Tree
 - Random Forest
 - XGBoost
-### ⭐結果：[這裡看]
+### ⭐結果：[這裡看](機器學習-HR預測離職.ipynb)
