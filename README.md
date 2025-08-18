@@ -14,7 +14,7 @@ Thera Bank的經理想將有債務的客戶轉換為貸款客戶，行銷部門�
 - Pandas  
 - Seaborn
 - Scikit-Learn
-### ⭐分析結果：[這裡看](Python-貸款申請.ipynb)  
+### ⭐分析結果：[這裡看Notebook](Python-貸款申請.ipynb)  
 ### 視覺化儀表板：[Tableau](https://public.tableau.com/app/profile/yii.chen/viz/_17539345831840/1)  
 ![plot](dashboards/bank_loan_dashboard.png)
 資料來源：[https://www.kaggle.com/datasets/ahmadrafiee/bank-personal-loan](https://www.kaggle.com/datasets/ahmadrafiee/bank-personal-loan)  
@@ -24,7 +24,7 @@ Thera Bank的經理想將有債務的客戶轉換為貸款客戶，行銷部門�
 - Python
 - Seaborn
 - Matplotlib
-### ⭐分析結果：[這裡看](Python-電商客戶行為.ipynb)  
+### ⭐分析結果：[這裡看Notebook](Python-電商客戶行為.ipynb)  
 資料來源：[https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset](https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset)
 ## 專案四：餐廳、成員和訂單
 這份資料集中共有十張表格，內容包含成員的點餐紀錄及餐廳和訂單的詳細資料  
@@ -33,7 +33,7 @@ Thera Bank的經理想將有債務的客戶轉換為貸款客戶，行銷部門�
 - Python
 - Pandas
 - MySQL
-### ⭐分析結果：[這裡看](SQL-餐廳、成員和訂單.ipynb)  
+### ⭐分析結果：[這裡看Notebook](SQL-餐廳、成員和訂單.ipynb)  
 資料來源：[https://www.kaggle.com/datasets/vainero/restaurants-customers-orders-dataset](https://www.kaggle.com/datasets/vainero/restaurants-customers-orders-dataset)
 ## 專案五：不同治療法的治療效果
 語言治療中使用到三種治療法，儀表板為每個治療法對個案治療效果的視覺化結果
@@ -48,4 +48,4 @@ Thera Bank的經理想將有債務的客戶轉換為貸款客戶，行銷部門�
 - Decision Tree
 - Random Forest
 - XGBoost
-### ⭐結果：[這裡看](機器學習-HR預測離職.ipynb)
+### ⭐結果：[這裡看Notebook](機器學習-HR預測離職.ipynb)
