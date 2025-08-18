@@ -4,7 +4,7 @@
 ### 使用工具：
 - Python
 - Tableau
-### ⭐商業簡報：[Tableau](https://public.tableau.com/app/profile/yii.chen/viz/southasiatelecomchurn/1_1)
+### ⭐商業簡報：[Tableau完整版](https://public.tableau.com/app/profile/yii.chen/viz/southasiatelecomchurn/1_1)
 ![plot](南亞電信客戶流失商業簡報/投影片1.PNG)  
 資料來源：[https://www.kaggle.com/datasets/mahreen/sato2015](https://www.kaggle.com/datasets/mahreen/sato2015)  
 ## 專案二：銀行貸款申請  
