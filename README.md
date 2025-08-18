@@ -14,7 +14,15 @@ Thera Bank的經理想將有債務的客戶轉換為貸款客戶，行銷部門�
 - Pandas  
 - Seaborn
 - Scikit-Learn
-### ⭐分析結果：[點這裡看Notebook](Python-貸款申請.ipynb)  
+### 分析結果(擷取部分)：
+針對符合以下任一條件的客戶，可作為推銷銀行貸款活動的主要目標
+- 收入超過113.5
+- 信用卡每月消費超過2.95
+- 來自Santa Clarita、Los Altos、Walnut Creek、Los Angeles、Berkeley或Sacramento
+- 教育程度研究所以上
+- 家庭人數大於兩人
+- 有儲蓄戶頭
+### ⭐完整流程和結果：[點這裡看Notebook](Python-貸款申請.ipynb)  
 ### 視覺化儀表板：[Tableau](https://public.tableau.com/app/profile/yii.chen/viz/_17539345831840/1)  
 ![plot](dashboards/bank_loan_dashboard.png)
 資料來源：[https://www.kaggle.com/datasets/ahmadrafiee/bank-personal-loan](https://www.kaggle.com/datasets/ahmadrafiee/bank-personal-loan)  
