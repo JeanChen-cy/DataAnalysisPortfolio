@@ -34,7 +34,7 @@ Thera Bank的經理想將有債務的客戶轉換為貸款客戶，行銷部門�
 - Matplotlib
 ### 分析結果(僅擷取部分)：
 年輕、購買較多商品、消費金額高、對商品有正向評價、金等會員、居住在紐約或舊金山、不使用折價券或較常購買的顧客，有著較高的滿意度，反之，年長、較少購買、會員等級較低、住在芝加哥或邁阿密、使用折價券或對商品評價較低的顧客有較低的滿意度
-### ⭐完整分析流程 & 結果：[點這裡看Notebook](Python-電商客戶行為.ipynb)  
+### ⭐完整分析流程 & 商業建議：[點這裡看Notebook](Python-電商客戶行為.ipynb)  
 資料來源：[https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset](https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset)
 ## 專案四：餐廳、成員和訂單
 這份資料集中共有十張表格，內容包含成員的點餐紀錄及餐廳和訂單的詳細資料  
